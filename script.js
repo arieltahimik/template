@@ -1,7 +1,7 @@
 // Sample greet function
 
 function greet(name = "Guest") {
-  console.log(`Hello, ${name}!`);
+  alert(`Hello, ${name}!`);
 }
 
 greet();        // Output: Hello, Guest!
