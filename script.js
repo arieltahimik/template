@@ -6,3 +6,4 @@ function greet(name = "Guest") {
 
 greet();        // Output: Hello, Guest!
 greet("World"); // Output: Hello, World!
+console.log('Hello console.');
